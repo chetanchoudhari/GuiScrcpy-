@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiScrcpy", "GuiScrcpy.csproj", "{07F4450E-2A52-4C42-A68D-26F2C2D8EC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F4450E-2A52-4C42-A68D-26F2C2D8EC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F4450E-2A52-4C42-A68D-26F2C2D8EC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F4450E-2A52-4C42-A68D-26F2C2D8EC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F4450E-2A52-4C42-A68D-26F2C2D8EC53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C637F2-EB6D-49CE-A7E8-61CC7F2466CC}
+	EndGlobalSection
+EndGlobal

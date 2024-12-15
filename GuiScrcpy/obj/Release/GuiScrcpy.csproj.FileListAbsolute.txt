@@ -1,0 +1,16 @@
+D:\Ui\GuiScrcpy\bin\Release\GuiScrcpy.exe.config
+D:\Ui\GuiScrcpy\bin\Release\GuiScrcpy.exe
+D:\Ui\GuiScrcpy\bin\Release\GuiScrcpy.pdb
+D:\Ui\GuiScrcpy\bin\Release\Guna.UI2.dll
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.csproj.AssemblyReference.cache
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.Form1.resources
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.Properties.Resources.resources
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.csproj.GenerateResource.cache
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.csproj.CoreCompileInputs.cache
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.csproj.Up2Date
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.exe
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.pdb
+D:\Ui\GuiScrcpy\bin\Release\GuiScrcpy.exe.manifest
+D:\Ui\GuiScrcpy\bin\Release\GuiScrcpy.application
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.exe.manifest
+D:\Ui\GuiScrcpy\obj\Release\GuiScrcpy.application
