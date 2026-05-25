@@ -1,56 +1,55 @@
-# GuiScrcpy-
 # GUI-SCRPY
 
 A modern GUI-based Android Screen Mirroring & Control application built using **C#**, inspired by the power of **Scrcpy**. The project focuses on providing an easy-to-use desktop interface for mirroring and controlling Android devices over **USB** and **WiFi**, while integrating additional utility features for productivity and device management.
 
 ---
 
-# 🚀 Features
+# Features
 
-## 📱 Android Screen Mirroring
+## Android Screen Mirroring
 
 * Real-time Android screen mirroring on PC
 * Low-latency display for smooth interaction
 * Supports high-resolution streaming
 
-## 🎮 Device Control
+## Device Control
 
 * Control Android devices directly from desktop
 * Mouse and keyboard interaction support
 * Easy navigation and multitasking
 
-## 🔌 USB & WiFi Connectivity
+## USB & WiFi Connectivity
 
 * Connect devices using USB debugging
 * Wireless connection support over WiFi
 * Dynamic connection status monitoring
 
-## 📷 Webcam Integration
+## Webcam Integration
 
 * Webcam support integrated into the application
 * Useful for communication, recording, and monitoring purposes
 
-## 🔋 Battery Monitoring
+## Battery Monitoring
 
 * Displays Android device battery status
 * Helps users monitor charging and battery usage
 
-## 📂 File Transfer Support
+## File Transfer Support
 
 * Send and receive files between PC and Android device
 * Simplifies quick file sharing
 
-## 📑 Dynamic Profile Creation
+## Dynamic Profile Creation
 
 * Create and manage custom device profiles
 * Store preferred settings for faster access
 
-## 🔍 QR Code Scanner
+## QR Code Scanner
 
 * Integrated QR scanner functionality
 * Quick access to links, authentication, and information sharing
 
-## 🎨 User-Friendly Interface
+## User-Friendly Interface
 
 * GUI designed with focus on simplicity and usability
 * Easy navigation for beginners and advanced users
@@ -58,7 +57,7 @@ A modern GUI-based Android Screen Mirroring & Control application built using **
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Frontend / GUI
 
@@ -78,7 +77,7 @@ A modern GUI-based Android Screen Mirroring & Control application built using **
 
 ---
 
-# 📌 Project Motivation
+# Project Motivation
 
 The project was developed to simplify Android screen mirroring and control by creating a graphical interface over Scrcpy. While Scrcpy is extremely powerful, it mainly operates through command-line execution, which can be difficult for beginners.
 
@@ -92,7 +91,7 @@ The aim of this project is to:
 
 ---
 
-# ⚙️ How It Works
+# How It Works
 
 1. The application detects connected Android devices using **ADB**.
 2. Once the device is connected through USB or WiFi, the software establishes communication.
@@ -107,7 +106,7 @@ The aim of this project is to:
 
 ---
 
-# 🧠 Learning Outcomes
+# Learning Outcomes
 
 This project helped in understanding:
 
@@ -121,21 +120,21 @@ This project helped in understanding:
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 > Add your application screenshots here.
-
+> GuiScrcpy/scrw.png
 Example:
 
 ```md
-
-![Connection Window](GuiScrcpy/scrw.png)
+![Home Screen](images/home.png)
+![Connection Window](images/connect.png)
 ![Mirror View](images/mirror.png)
 ```
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 GUI-SCRPY/
@@ -153,7 +152,7 @@ GUI-SCRPY/
 
 ---
 
-# ▶️ Installation
+# Installation
 
 ## Prerequisites
 
@@ -181,7 +180,7 @@ git clone https://github.com/your-username/GUI-SCRPY.git
 
 ---
 
-# 🔧 Future Improvements
+# Future Improvements
 
 * Multi-device support
 * Screen recording functionality
@@ -193,7 +192,7 @@ git clone https://github.com/your-username/GUI-SCRPY.git
 
 ---
 
-# 💡 Challenges Faced
+# Challenges Faced
 
 * Handling stable USB and WiFi connections
 * Managing real-time device communication
@@ -203,7 +202,7 @@ git clone https://github.com/your-username/GUI-SCRPY.git
 
 ---
 
-# 📖 Inspiration
+# Inspiration
 
 This project is inspired by:
 
@@ -214,7 +213,7 @@ This project is inspired by:
 
 ---
 
-# 🤝 Contribution
+# Contribution
 
 Contributions, ideas, and improvements are welcome.
 
@@ -226,13 +225,13 @@ Contributions, ideas, and improvements are welcome.
 
 ---
 
-# 📜 License
+# License
 
 This project is developed for educational and learning purposes.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Chetan Choudhary**
 
@@ -240,6 +239,6 @@ B.Tech CSE Student | Unity Developer | C++ & C# Enthusiast
 
 ---
 
-# ⭐ Support
+# Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
