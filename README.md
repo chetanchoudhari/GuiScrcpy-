@@ -128,7 +128,7 @@ This project helped in understanding:
 Example:
 
 ```md
-![Home Screen](images/home.png)
+![Home Screen](GuiScrcpy/Screenshot (48).png)
 ![Connection Window](images/connect.png)
 ![Mirror View](images/mirror.png)
 ```
