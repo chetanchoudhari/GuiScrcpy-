@@ -128,8 +128,8 @@ This project helped in understanding:
 Example:
 
 ```md
-GuiScrcpy/Screenshot (49).png
-![Connection Window](images/connect.png)
+
+![Connection Window](GuiScrcpy/scrw.png)
 ![Mirror View](images/mirror.png)
 ```
 
