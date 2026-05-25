@@ -122,17 +122,6 @@ This project helped in understanding:
 
 # Screenshots
 
-> Add your application screenshots here.
-> GuiScrcpy/scrw.png
-Example:
-
-```md
-![Home Screen](images/home.png)
-![Connection Window](images/connect.png)
-![Mirror View](images/mirror.png)
-```
-
----
 
 # Project Structure
 
